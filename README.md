@@ -24,10 +24,6 @@
 2. Click **Add Project** and select the folder.
 3. Open scene, press ▶️ to play.
 
-## 🌐 Build for Web
-- Set platform to WebGL in **Build Settings**.
-- Click **Build** and store output in `BuildOutput/` (excluded from Git).
-
 ## 🙏 Credits
 - 3D Models & Animations: Unity Asset Store
 - Sound Effects: freesound.org
